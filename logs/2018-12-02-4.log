@@ -1,0 +1,323 @@
+[18:05:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:05:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[18:05:52] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at F:\Minecraft\runtime\jre-x64\1.8.0_51
+[18:05:52] [main/INFO] [FML]: Searching C:\Users\jared\AppData\Roaming\.minecraft\mods for mods
+[18:05:52] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:05:52] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[18:05:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:05:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:05:54] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:05:54] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:05:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:05:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:05:54] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[18:05:54] [main/INFO] [FML]: Failed to find MicdoodleCore file in mods folder, skipping GC version check.
+[18:05:54] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[18:05:54] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[18:05:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:05:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:05:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:05:55] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:05:55] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: velkairiwyth
+[18:06:00] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[18:06:00] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[18:06:01] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 567844208 bytes (541 MB) / 872415232 bytes (832 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 391.35' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+[18:06:01] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[18:06:01] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:06:01] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[18:06:01] [main/INFO] [FML]: Searching C:\Users\jared\AppData\Roaming\.minecraft\mods for mods
+[18:06:03] [main/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
+[18:06:03] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, bettervillagers, camera, props, galacticraftcore, galacticraftplanets, iv, joshxmas, ptrmodellib] at CLIENT
+[18:06:03] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, bettervillagers, camera, props, galacticraftcore, galacticraftplanets, iv, joshxmas, ptrmodellib] at SERVER
+[18:06:03] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 270834839 nanos
+[18:06:04] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Better Villagers, FMLFileResourcePack:Camera Mod, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Improved Villagers, FMLFileResourcePack:Joshua's Christmas Mod, FMLFileResourcePack:ptrmodellib
+[18:06:04] [main/INFO] [FML]: Processing ObjectHolder annotations
+[18:06:04] [main/INFO] [FML]: Found 1179 ObjectHolder annotations
+[18:06:04] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:06:04] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:06:04] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:06:04] [Forge Version Check/INFO] [forge.VersionCheck]: [camera] Starting version check at http://maxhenkel.de/update/camera.json
+[18:06:04] [main/INFO] [bettervillagers]: BetterVillagers config directory loaded
+[18:06:04] [main/INFO] [bettervillagers]: Starting Better Villagers...
+[18:06:04] [main/INFO] [bettervillagers]: Custom trades loaded.
+[18:06:05] [main/INFO] [com.mia.craftstudio.CSPack]: Original locale was , switching to Locale.US
+[18:06:05] [main/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[18:06:05] [main/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to 
+[18:06:05] [Forge Version Check/INFO] [forge.VersionCheck]: [iv] Starting version check at https://raw.githubusercontent.com/Orange1861/update.json/master/update3.json
+[18:06:06] [Forge Version Check/INFO] [forge.VersionCheck]: [iv] Found status: BETA Target: null
+[18:06:06] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:06:06] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[18:06:06] [Forge Version Check/INFO] [forge.VersionCheck]: [joshxmas] Starting version check at http://joshua.lightwolfstudios.com/joshxmas/versions.json
+[18:06:07] [Forge Version Check/INFO] [forge.VersionCheck]: [joshxmas] Found status: UP_TO_DATE Target: null
+[18:06:26] [main/INFO] [ptrmodellib]: Total mipmap : 4532 ms
+[18:06:29] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityimage`, expected `camera`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:29] [main/INFO] [FML]: Applying holder lookups
+[18:06:29] [main/INFO] [FML]: Holder lookups applied
+[18:06:29] [main/INFO] [FML]: Applying holder lookups
+[18:06:29] [main/INFO] [FML]: Holder lookups applied
+[18:06:29] [main/INFO] [FML]: Applying holder lookups
+[18:06:29] [main/INFO] [FML]: Holder lookups applied
+[18:06:29] [main/INFO] [FML]: Applying holder lookups
+[18:06:29] [main/INFO] [FML]: Holder lookups applied
+[18:06:29] [main/INFO] [FML]: Injecting itemstacks
+[18:06:29] [main/INFO] [FML]: Itemstack injection complete
+[18:06:30] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:06:31] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:06:31] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:06:32] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:06:32] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:06:36] [main/INFO] [FML]: Max texture size: 16384
+[18:06:42] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 4096x2048 textures-atlas
+[18:06:44] [main/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:06:44] [main/ERROR] [FML]: Exception loading blockstate for the variant props:blockprops#facing=east: 
+java.lang.Exception: Could not load model definition for variant props:blockprops
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model props:blockstates/blockprops.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:228) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: props:blockstates/blockprops.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:221) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[18:06:44] [main/ERROR] [FML]: Exception loading model for variant props:blockfake#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockfake#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:06:44] [main/ERROR] [FML]: Exception loading blockstate for the variant props:blockfake#facing=south: 
+java.lang.Exception: Could not load model definition for variant props:blockfake
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model props:blockstates/blockfake.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:228) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: props:blockstates/blockfake.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:221) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[18:06:44] [main/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:06:44] [main/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=north
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:512) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:06:44] [main/FATAL] [FML]: Suppressed additional 3 model loading errors for domain props
+[18:06:45] [main/INFO] [FML]: Applying holder lookups
+[18:06:45] [main/INFO] [FML]: Holder lookups applied
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:06:46] [main/INFO] [FML]: Injecting itemstacks
+[18:06:46] [main/INFO] [FML]: Itemstack injection complete
+[18:06:47] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
+[18:06:47] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[18:06:47] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[18:07:10] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Better Villagers, FMLFileResourcePack:Camera Mod, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Improved Villagers, FMLFileResourcePack:Joshua's Christmas Mod, FMLFileResourcePack:ptrmodellib
+[18:07:28] [main/INFO] [ptrmodellib]: Total mipmap : 3712 ms
+[18:07:29] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:07:29] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[18:07:29] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:07:30] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:07:30] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:07:30] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:07:30] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
