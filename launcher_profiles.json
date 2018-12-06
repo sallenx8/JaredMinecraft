@@ -17,13 +17,13 @@
     },
     "95f70294d795769bb5627c887afa7faf": {
       "type": "latest-snapshot",
-      "lastUsed": "2018-12-01T08:52:36.478Z"
+      "lastUsed": "2018-12-06T07:32:50.607Z"
     },
     "227fb4ceb470385ec88f298bb9ebf2b3": {
       "name": "forge",
       "type": "custom",
       "created": "2018-11-29T15:54:14.254Z",
-      "lastUsed": "2018-12-05T19:19:05.368Z",
+      "lastUsed": "2018-12-06T18:36:45.676Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768"
     },
     "OptiFine": {
@@ -71,7 +71,7 @@
     "account": "7ecf1f9ad7ac41be74f7b3c8c2fa399b",
     "profile": "17544dcc9453413fba253b31b4d5cef1"
   },
-  "analyticsToken": "435d32a4a91d3f3ea43a7fffebf12e32",
+  "analyticsToken": "ba10df1f200cf76769a63a6be62f09af",
   "analyticsFailcount": 0,
   "clientToken": "2fe1bee6a19ef6c89ad375da70e01cee",
   "selectedProfile": "OptiFine"
