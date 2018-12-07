@@ -17,15 +17,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/string_to_wool": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_string": "2018-12-06 19:48:08 +0000"
+      "has_leather": "2018-12-07 19:05:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2018-12-06 19:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2018-12-06 19:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-12-07 19:05:09 +0000"
     },
     "done": true
   },
@@ -73,6 +85,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-12-07 18:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-03 19:25:51 +0000"
@@ -85,9 +103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-12-07 08:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-12-06 19:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-12-07 19:05:09 +0000"
     },
     "done": true
   },
@@ -109,6 +139,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2018-12-06 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-12-07 20:21:20 +0000"
     },
     "done": true
   },
@@ -166,6 +202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2018-12-07 20:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2018-12-03 19:25:51 +0000"
@@ -202,6 +244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-12-07 19:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-03 19:25:51 +0000"
@@ -217,6 +265,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2018-12-06 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-12-07 19:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-12-07 19:05:15 +0000"
     },
     "done": true
   }
