@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["Aeon [JUL 27].zip","Aeon Extension Patch v11-5.zip"]
+incompatibleResourcePacks:["Aeon [JUL 27].zip","Aeon Extension Patch v11-5.zip"]
 lastServer:
 lang:bs_ba
 chatVisibility:0
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:false
+autoJump:true
 narrator:0
 tutorialStep:none
 key_key.attack:-100

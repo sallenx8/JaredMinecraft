@@ -23,7 +23,7 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-11-29T15:54:14.254Z",
-      "lastUsed": "2018-12-08T10:12:16.000Z",
+      "lastUsed": "2018-12-08T13:33:57.720Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768"
     },
     "OptiFine": {
@@ -46,6 +46,13 @@
       "created": "2018-12-03T19:38:45.698Z",
       "lastUsed": "2018-12-03T19:47:23.188Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768"
+    },
+    "4a8f78f852d2673505e8d5d1ae91e618": {
+      "name": "AEON launcher",
+      "type": "custom",
+      "created": "2018-12-08T13:04:40.705Z",
+      "lastUsed": "2018-12-08T13:05:22.464Z",
+      "lastVersionId": "1.9"
     }
   },
   "authenticationDatabase": {
@@ -71,7 +78,7 @@
     "account": "7ecf1f9ad7ac41be74f7b3c8c2fa399b",
     "profile": "17544dcc9453413fba253b31b4d5cef1"
   },
-  "analyticsToken": "c7f7865908f95f3611afbed508dcb9a9",
+  "analyticsToken": "96e51746b1eef1a52b6bc01dbb5f7f15",
   "analyticsFailcount": 0,
   "clientToken": "2fe1bee6a19ef6c89ad375da70e01cee",
   "selectedProfile": "OptiFine"
