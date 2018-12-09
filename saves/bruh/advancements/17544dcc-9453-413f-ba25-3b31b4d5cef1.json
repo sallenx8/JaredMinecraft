@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2018-12-08 13:48:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2018-12-08 13:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-12-08 13:48:27 +0000"
     },
     "done": true
   },
@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2018-12-08 13:40:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2018-12-08 13:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-08 13:40:25 +0000"
     },
     "done": true
   },
