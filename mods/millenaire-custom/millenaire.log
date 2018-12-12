@@ -1,0 +1,419 @@
+7.1.0 09-12-2018 17:10:03 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:10:43 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:10:44 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 17:40:21 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:41:00 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:41:02 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 17:42:20 ERROR: org.millenaire.client.network.ClientReceiver@4e8a09d0: Received a packet despite null clientWorld.
+7.1.0 09-12-2018 17:48:09 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:48:43 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:48:45 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 17:50:56 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:51:34 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:51:36 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 17:53:53 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:54:32 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:54:33 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 17:58:35 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 17:59:11 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 17:59:12 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 09-12-2018 18:03:01 Starting new session. Mods: examplemod 
+7.1.0 09-12-2018 18:03:36 MAJOR: null: Loading language: bs_ba
+7.1.0 09-12-2018 18:03:38 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 10-12-2018 18:43:29 Starting new session. Mods: examplemod 
+7.1.0 10-12-2018 18:44:07 MAJOR: null: Loading language: bs_ba
+7.1.0 10-12-2018 18:44:08 MAJOR: null: LanguageData loaded: bs_ba. Wand invitem name: Wand of Summoning
+7.1.0 10-12-2018 19:13:24 Error when computing Travel Book
+7.1.0 10-12-2018 19:13:24 java.lang.NullPointerException
+	at org.millenaire.client.gui.text.GuiText.splitStringByLength(GuiText.java:1110)
+	at org.millenaire.client.gui.text.GuiText.adjustTextBookLineLength(GuiText.java:370)
+	at org.millenaire.client.gui.text.GuiTravelBook.offsetFirstLines(GuiTravelBook.java:2460)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBookBuildingDetail(GuiTravelBook.java:647)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBook(GuiTravelBook.java:559)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2449)
+	at org.millenaire.client.gui.text.GuiText.func_146284_a(GuiText.java:295)
+	at org.millenaire.client.gui.text.GuiPanelParchment.func_146284_a(GuiPanelParchment.java:103)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:14:11 Error when computing Travel Book
+7.1.0 10-12-2018 19:14:11 java.lang.NullPointerException
+	at org.millenaire.client.gui.text.GuiText.splitStringByLength(GuiText.java:1110)
+	at org.millenaire.client.gui.text.GuiText.adjustTextBookLineLength(GuiText.java:370)
+	at org.millenaire.client.gui.text.GuiTravelBook.offsetFirstLines(GuiTravelBook.java:2460)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBookVillageDetail(GuiTravelBook.java:2064)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBook(GuiTravelBook.java:569)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2449)
+	at org.millenaire.client.gui.text.GuiText.func_146284_a(GuiText.java:295)
+	at org.millenaire.client.gui.text.GuiPanelParchment.func_146284_a(GuiPanelParchment.java:103)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:15:00 Error when computing Travel Book
+7.1.0 10-12-2018 19:15:00 java.lang.NullPointerException
+	at org.millenaire.client.gui.text.GuiText.splitStringByLength(GuiText.java:1110)
+	at org.millenaire.client.gui.text.GuiText.adjustTextBookLineLength(GuiText.java:370)
+	at org.millenaire.client.gui.text.GuiTravelBook.offsetFirstLines(GuiTravelBook.java:2460)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBookVillageDetail(GuiTravelBook.java:2064)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBook(GuiTravelBook.java:569)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2449)
+	at org.millenaire.client.gui.text.GuiText.func_146284_a(GuiText.java:295)
+	at org.millenaire.client.gui.text.GuiPanelParchment.func_146284_a(GuiPanelParchment.java:103)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:16:09 Error when computing Travel Book
+7.1.0 10-12-2018 19:16:09 java.lang.NullPointerException
+	at org.millenaire.client.gui.text.GuiText.splitStringByLength(GuiText.java:1110)
+	at org.millenaire.client.gui.text.GuiText.adjustTextBookLineLength(GuiText.java:370)
+	at org.millenaire.client.gui.text.GuiTravelBook.offsetFirstLines(GuiTravelBook.java:2460)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBookVillageDetail(GuiTravelBook.java:2064)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBook(GuiTravelBook.java:569)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2449)
+	at org.millenaire.client.gui.text.GuiText.func_146284_a(GuiText.java:295)
+	at org.millenaire.client.gui.text.GuiPanelParchment.func_146284_a(GuiPanelParchment.java:103)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:18:28 Error when computing Travel Book
+7.1.0 10-12-2018 19:18:28 java.lang.NullPointerException
+	at org.millenaire.client.gui.text.GuiText.splitStringByLength(GuiText.java:1110)
+	at org.millenaire.client.gui.text.GuiText.adjustTextBookLineLength(GuiText.java:370)
+	at org.millenaire.client.gui.text.GuiTravelBook.offsetFirstLines(GuiTravelBook.java:2460)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBookTradeGoodDetail(GuiTravelBook.java:1246)
+	at org.millenaire.client.gui.text.GuiTravelBook.getBook(GuiTravelBook.java:571)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2449)
+	at org.millenaire.client.gui.text.GuiText.func_146284_a(GuiText.java:295)
+	at org.millenaire.client.gui.text.GuiPanelParchment.func_146284_a(GuiPanelParchment.java:103)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:23:42 MAJOR: null: Loading language: en_gb
+7.1.0 10-12-2018 19:23:42 MAJOR: null: LanguageData loaded: en_gb. Wand invitem name: Wand of Summoning
+7.1.0 10-12-2018 19:32:54 Error when computing Travel Book
+7.1.0 10-12-2018 19:32:54 java.lang.NullPointerException
+
+7.1.0 10-12-2018 19:38:02 Error when computing Travel Book
+7.1.0 10-12-2018 19:38:02 java.lang.NullPointerException
+
+7.1.0 10-12-2018 19:38:10 Exception in buttonPagination:
+7.1.0 10-12-2018 19:38:10 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2450)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:248)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:38:10 Exception in buttonPagination:
+7.1.0 10-12-2018 19:38:10 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.refreshContent(GuiTravelBook.java:2475)
+	at org.millenaire.client.gui.text.GuiTravelBook.customDrawScreen(GuiTravelBook.java:534)
+	at org.millenaire.client.gui.text.GuiText.func_73863_a(GuiText.java:926)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1118)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:38:12 Exception in buttonPagination:
+7.1.0 10-12-2018 19:38:12 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.refreshContent(GuiTravelBook.java:2475)
+	at org.millenaire.client.gui.text.GuiTravelBook.customDrawScreen(GuiTravelBook.java:534)
+	at org.millenaire.client.gui.text.GuiText.func_73863_a(GuiText.java:926)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1118)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:38:14 Exception in buttonPagination:
+7.1.0 10-12-2018 19:38:14 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.refreshContent(GuiTravelBook.java:2475)
+	at org.millenaire.client.gui.text.GuiTravelBook.customDrawScreen(GuiTravelBook.java:534)
+	at org.millenaire.client.gui.text.GuiText.func_73863_a(GuiText.java:926)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1118)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:38:34 Exception while handling button pressed:
+7.1.0 10-12-2018 19:38:34 java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:418)
+	at java.util.ArrayList.get(ArrayList.java:431)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:422)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:38:41 Error when computing Travel Book
+7.1.0 10-12-2018 19:38:41 java.lang.NullPointerException
+
+7.1.0 10-12-2018 19:39:27 Error when computing Travel Book
+7.1.0 10-12-2018 19:39:27 java.lang.NullPointerException
+
+7.1.0 10-12-2018 19:40:15 Error when computing Travel Book
+7.1.0 10-12-2018 19:40:15 java.lang.NullPointerException
+
+7.1.0 10-12-2018 19:40:44 Repeat exception x6: Error when computing Travel Book @ 
+7.1.0 10-12-2018 19:41:07 Repeat exception x7: Error when computing Travel Book @ 
+7.1.0 10-12-2018 19:41:49 Repeat exception x8: Error when computing Travel Book @ 
+7.1.0 10-12-2018 19:42:14 Repeat exception x9: Error when computing Travel Book @ 
+7.1.0 10-12-2018 19:42:20 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:20 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2450)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:248)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:20 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:20 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.refreshContent(GuiTravelBook.java:2475)
+	at org.millenaire.client.gui.text.GuiTravelBook.customDrawScreen(GuiTravelBook.java:534)
+	at org.millenaire.client.gui.text.GuiText.func_73863_a(GuiText.java:926)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1118)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:22 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:22 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.refreshContent(GuiTravelBook.java:2475)
+	at org.millenaire.client.gui.text.GuiTravelBook.customDrawScreen(GuiTravelBook.java:534)
+	at org.millenaire.client.gui.text.GuiText.func_73863_a(GuiText.java:926)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1118)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:24 Repeat exception x6: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:25 Repeat exception x7: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:39 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:39 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2450)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:248)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:40 Repeat exception x8: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:42 Repeat exception x9: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:44 Repeat exception x10: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:45 Repeat exception x11: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:47 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:47 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2450)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:248)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:49 Exception in buttonPagination:
+7.1.0 10-12-2018 19:42:49 java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at org.millenaire.client.gui.text.GuiTravelBook.buttonPagination(GuiTravelBook.java:484)
+	at org.millenaire.client.gui.text.GuiTravelBook.jumpToDetails(GuiTravelBook.java:2450)
+	at org.millenaire.client.gui.text.GuiTravelBook.func_146284_a(GuiTravelBook.java:248)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at org.millenaire.client.gui.text.GuiText.func_73864_a(GuiText.java:1080)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1758)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1097)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.1.0 10-12-2018 19:42:50 Repeat exception x12: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:52 Repeat exception x6: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:54 Repeat exception x7: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 10-12-2018 19:42:55 Repeat exception x13: Exception in buttonPagination: - Index: 0, Size: 0 @ java.util.ArrayList.rangeCheck(ArrayList.java:653)
+7.1.0 12-12-2018 19:12:46 Starting new session. Mods: examplemod 
+7.1.0 12-12-2018 19:13:28 MAJOR: null: Loading language: en_gb
+7.1.0 12-12-2018 19:13:30 MAJOR: null: LanguageData loaded: en_gb. Wand invitem name: Wand of Summoning
+7.1.0 12-12-2018 19:49:16 Starting new session. Mods: examplemod 
+7.1.0 12-12-2018 19:49:50 MAJOR: null: Loading language: en_gb
+7.1.0 12-12-2018 19:49:51 MAJOR: null: LanguageData loaded: en_gb. Wand invitem name: Wand of Summoning
+7.1.0 12-12-2018 19:50:26 ERROR: (shamanistic_A2 at -324/76/342/2/0/761591287/Illiniwek-inikitchuq/net.minecraft.world.WorldServer@6b2c3e96): Deleting building as could not find the location for it at: -334/79/362
+7.1.0 12-12-2018 19:50:32 MAJOR: null: Migrating profile of UUID 17544dcc-9453-413f-ba25-3b31b4d5cef1 to UUID b788f906-48e9-4fe2-863a-36e0e5366113 (Jared_Thorson).

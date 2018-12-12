@@ -13,7 +13,7 @@
   "profiles": {
     "98193d602142e6f128f1ca18b0d3c745": {
       "type": "latest-release",
-      "lastUsed": "2018-12-08T08:48:27.951Z"
+      "lastUsed": "2018-12-12T19:45:23.607Z"
     },
     "95f70294d795769bb5627c887afa7faf": {
       "type": "latest-snapshot",
@@ -23,7 +23,7 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-11-29T15:54:14.254Z",
-      "lastUsed": "2018-12-09T14:28:03.315Z",
+      "lastUsed": "2018-12-12T19:48:37.366Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768"
     },
     "OptiFine": {
@@ -57,7 +57,7 @@
   },
   "authenticationDatabase": {
     "7ecf1f9ad7ac41be74f7b3c8c2fa399b": {
-      "accessToken": "665c731f672247e68921f6c39131042a",
+      "accessToken": "543cb9be8b15486091a622a5a6ae70d2",
       "username": "s_allenx8@hotmail.com",
       "properties": [
         {
@@ -72,13 +72,37 @@
           "displayName": "velkairiwyth"
         }
       }
+    },
+    "740998e46adbb7138d30f6dcce0b6aaa": {
+      "accessToken": "b6fd2bed4fa24e25a1d4d7ca5ec4fcb2",
+      "username": "jared_thorsonx8@outlook.com",
+      "properties": [
+        {
+          "userId": "740998e46adbb7138d30f6dcce0b6aaa",
+          "profileId": "",
+          "name": "preferredLanguage",
+          "value": "en-us",
+          "languageCode": "en-us"
+        },
+        {
+          "userId": "740998e46adbb7138d30f6dcce0b6aaa",
+          "profileId": "",
+          "name": "registrationCountry",
+          "value": "GB"
+        }
+      ],
+      "profiles": {
+        "b788f90648e94fe2863a36e0e5366113": {
+          "displayName": "Jared_Thorson"
+        }
+      }
     }
   },
   "selectedUser": {
-    "account": "7ecf1f9ad7ac41be74f7b3c8c2fa399b",
-    "profile": "17544dcc9453413fba253b31b4d5cef1"
+    "account": "740998e46adbb7138d30f6dcce0b6aaa",
+    "profile": "b788f90648e94fe2863a36e0e5366113"
   },
-  "analyticsToken": "c7f2139cfd931bc770a5c956ed0937c4",
+  "analyticsToken": "3043857db3d6d52bef1ef275911b5e82",
   "analyticsFailcount": 0,
   "clientToken": "2fe1bee6a19ef6c89ad375da70e01cee",
   "selectedProfile": "OptiFine"

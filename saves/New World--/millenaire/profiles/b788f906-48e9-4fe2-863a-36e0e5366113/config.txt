@@ -1,0 +1,9 @@
+player_name=Jared_Thorson
+donation_mode=true
+culture_reputation=norman,606
+culture_language=norman,287
+village_reputations=-209/76/307,6068
+village_diplomacy=-217/66/164,5
+village_diplomacy=-319/76/341,5
+village_diplomacy=-156/64/386,5
+village_diplomacy=-209/76/307,5

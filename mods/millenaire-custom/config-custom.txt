@@ -1,0 +1,16 @@
+//Travel Book Learning; Whether villagers, buildings etc descriptions in the Travel Book are revealed only after meeting the item in question.
+travel_book_learning=true
+
+//Generate help data; Generates various data (colour sheet, goods list, infos on generic goals) useful to content makers
+generate_help_data=false
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=2710033859424781312
+
+//Advancement completed for anonymous statistics
+advancements_creative=firstcontact
+
+//Advancement completed for anonymous statistics
+advancements_survival=
+
+validation=346190887

@@ -1,0 +1,4 @@
+quest:bonefetch;step:0;startTime:745000;currentStepStartTime:745000;villager:startvillager,1526524842220410305,-319/76/341;villager:wife,5270772610017066842,-319/76/341
+quest:bonefetch;step:0;startTime:745000;currentStepStartTime:745000;villager:startvillager,371132588476826448,-319/76/341;villager:wife,3100130236662952967,-319/76/341
+quest:losttapestry;step:1;startTime:746000;currentStepStartTime:748683;villager:startvillager,2653793322166758924,-209/76/307;villager:lady,1999899850764202126,-209/76/307
+quest:bonefetch;step:0;startTime:746000;currentStepStartTime:746000;villager:startvillager,7728773778576826328,-156/64/386;villager:wife,4293753457862134799,-156/64/386

@@ -1,0 +1,4 @@
+Périgny-le-fort;-209/76/307;militaire;norman;
+Illiniwek;-217/66/164;communityvillage;inuits;
+Illiniwek-inikitchuq;-156/64/386;community_farminghamlet;inuits;
+Illiniwek-inikitchuq;-319/76/341;community_religioushamlet;inuits;

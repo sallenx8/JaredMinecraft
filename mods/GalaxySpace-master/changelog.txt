@@ -1,0 +1,9 @@
+///Changelog///
+#ru
+r.1. Фикс краша в Модификационном Столе при использовании Shift.
+r.2. Добавлено оповещение в лог о неправильно настроеном конфиге для брони от радиации и давления.
+r.3. Добавлено совмещение с MatterOverdrive. Андроид игнорирует солнечную радиацию и урон от давления.
+#en
+e.1. Fixed crash in the Modification Table using Shift.
+e.2. Added notification to the log about incorrectly configured config for armor from radiation and pressure.
+e.3. Added compability with MatterOverdrive. Android ignores solar radiation and pressure damage.
